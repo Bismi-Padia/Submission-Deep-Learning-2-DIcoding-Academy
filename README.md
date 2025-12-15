@@ -1,1 +1,1 @@
-# Submission-Deep-Learning-2-DIcoding-Academy
+# Submission-Deep-Learning-2-Dicoding-Academy
